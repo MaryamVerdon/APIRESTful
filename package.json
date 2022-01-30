@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MaryamVerdon/backend/issues"
   },
-  "homepage": "https://github.com/MaryamVerdon/backend#readme"
+  "homepage": "https://github.com/MaryamVerdon/backend#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
