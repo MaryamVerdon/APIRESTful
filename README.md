@@ -24,8 +24,10 @@ Ce projet à pour but  de créer une application NodeJS, Express et MongoDB.
 4. Configurer la BDD - MongoDB Atlas
     - Se rendre sur : https://www.mongodb.com/try?initial=true#community et se connecter/s'inscrire.
     - Sur MongoDB Atlas, se créer un cluster et le configurer : 
-          - Dans le menu sur le côté, cliquer sur "Database Access" puis créer un utilisateur avec les droits écriture/lecture.
-          - Dans le menu, cliquer sur "Network Access", autorisez toutes les adresses IP ou seulement la votre.
+    
+       -Dans le menu sur le côté, cliquer sur "Database Access" puis créer un utilisateur avec les droits écriture/lecture.
+       
+       -Dans le menu, cliquer sur "Network Access", autorisez toutes les adresses IP ou seulement la votre.
           
 5. Connexion de l'API au cluster MongoDB
 
